@@ -11,4 +11,10 @@ What is Activation Function? If we do not apply a Activation function then the o
 
 Sigmoid Tanh ReLu LeakyReLu
 
-Steps for building your first ANN Data Preprocessing Add input layer Random w init Add Hidden Layers Select Optimizer, Loss, and Performance Metrics Compile the model use model.fit to train the model Evaluate the model Adjust optimization parameters or model if needed
+Steps for building your first ANN Data Preprocessing Add input layer Random w init Add Hidden Layers Select Optimizer, Loss, and Performance Metrics Compile the model use model.fit to train the model Evaluate the model Adjust optimization parameters or model if needed.
+
+# Machine-Learning-Project : https://github.com/Shivan118/Machine-Learning-Project
+
+# Exploratory Data Analysis : https://github.com/Shivan118/Exploratory-Data-Analysis
+
+# Machine-Learning-Practice : https://github.com/Shivan118/Machine-Learning
