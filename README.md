@@ -1,5 +1,5 @@
 # Deep-Learning-Project
-2. Building-Your-First-ANN-with-TensorFlow-2.0
+# Project. Building-Your-First-ANN-with-TensorFlow-2.0
 Building Your First ANN with TensorFlow 2.0 Download Working Files:https://github.com/Shivan118/Deep-Learning-Project
 What is ANN? Artificial Neural Networks (ANN) is a supervised learning system built of a large number of simple elements, called neurons or perceptrons. Each neuron can make simple decisions, and feeds those decisions to other neurons, organized in interconnected layers.
 
