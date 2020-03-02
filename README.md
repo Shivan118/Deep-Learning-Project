@@ -13,6 +13,12 @@ Sigmoid Tanh ReLu LeakyReLu
 
 Steps for building your first ANN Data Preprocessing Add input layer Random w init Add Hidden Layers Select Optimizer, Loss, and Performance Metrics Compile the model use model.fit to train the model Evaluate the model Adjust optimization parameters or model if needed.
 
+
+# The CIFAR-10 dataset
+The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
+
+The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class.
+
 # Machine-Learning-Project : https://github.com/Shivan118/Machine-Learning-Project
 
 # Exploratory Data Analysis : https://github.com/Shivan118/Exploratory-Data-Analysis
