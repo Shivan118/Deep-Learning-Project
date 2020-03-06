@@ -19,6 +19,11 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class.
 
+# Develop a single Neuron Model to Convert C to F ( ANN First Project )
+In this project, we will build a simple machine learning model to convert temperatures from Celsius to fahernehit.
+The Euation is as follows:
+T(*F) = T(*C) * 9/5 + 32
+
 # Machine-Learning-Project : https://github.com/Shivan118/Machine-Learning-Project
 
 # Exploratory Data Analysis : https://github.com/Shivan118/Exploratory-Data-Analysis
